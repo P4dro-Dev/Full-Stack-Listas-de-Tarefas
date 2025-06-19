@@ -21,7 +21,7 @@ As seguintes funcionalidades essenciais foram implementadas:
 4.  [cite_start]**Remoção de Tarefa;** 
 5.  [cite_start]**Persistência dos Dados no MySQL.** 
 
-## 💻 Tecnologias Utilizadas
+## 💻| Tecnologias Utilizadas
 
 ### Frontend
 * [cite_start]**Linguagem:** JavaScript 
