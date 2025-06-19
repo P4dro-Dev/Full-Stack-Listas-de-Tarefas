@@ -57,7 +57,7 @@ As seguintes funcionalidades essenciais foram implementadas:
 | `data_criacao`| `DATETIME`    | [cite_start]`DEFAULT CURRENT_TIMESTAMP`        |
 
 
-## 💾|API - Endpoints da Aplicação
+## 💾 API - Endpoints da Aplicação
 
 [cite_start]O backend expõe os seguintes endpoints RESTful para gerenciar as tarefas: 
 
