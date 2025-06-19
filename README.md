@@ -12,7 +12,7 @@ O objetivo principal desta atividade prática é construir uma ferramenta que pe
 
 O projeto é modularizado, com o back-end implementado em Node.js e Express, e os dados persistidos no MySQL. O front-end é construído com HTML5, CSS3 e JavaScript puro, garantindo uma interface simples e funcional.
 
-## 💿Funcionalidades Obrigatórias
+## 💿 Funcionalidades Obrigatórias
 
 As seguintes funcionalidades essenciais foram implementadas:
 1.  [cite_start]**Cadastro de Tarefas;** 
