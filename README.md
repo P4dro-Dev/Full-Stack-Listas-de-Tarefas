@@ -66,6 +66,4 @@ As seguintes funcionalidades essenciais foram implementadas:
 * [cite_start]`PUT /tarefas/:id`: Alterar o status de uma tarefa (marcar como concluída/pendente). 
 * [cite_start]`DELETE /tarefas/:id`: Remover uma tarefa. 
 
-## Estrutura Sugerida do Projeto
 
-[cite_start]O projeto segue uma estrutura de pastas organizada para facilitar a manutenção e o entendimento:
