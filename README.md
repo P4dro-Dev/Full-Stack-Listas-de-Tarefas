@@ -29,7 +29,7 @@ As seguintes funcionalidades essenciais foram implementadas:
 * [cite_start]**Tecnologias Base:** HTML5, CSS3 
 * [cite_start]**Bibliotecas Recomendadas (para requisições HTTP):** A comunicação com o backend é feita usando a API `fetch` nativa do navegador, que atende ao propósito de requisições HTTP de forma similar ao Axios.
 
-### Backend
+### 🤖Backend
 * [cite_start]**Linguagem:** JavaScript 
 * [cite_start]**Plataforma:** Node.js 
 * [cite_start]**Framework:** Express.js 
