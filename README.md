@@ -2,7 +2,7 @@
 
 Este projeto é um sistema simples de Lista de Tarefas (ToDoList) desenvolvido para gerenciamento de atividades diárias. Ele permite aos usuários cadastrar, listar, marcar como concluídas e remover tarefas. O projeto é dividido em um frontend interativo e um backend robusto, com toda a persistência de dados gerenciada por um banco de dados MySQL.
 
-## 📝 Descrição Geral
+## 📝| Descrição Geral
 
 O objetivo principal desta atividade prática é construir uma ferramenta que permita aos usuários:
 * **Cadastrar novas tarefas:** Adicionar itens à lista de atividades.
